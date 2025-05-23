@@ -13,6 +13,8 @@ As a dedicated student at Cape Peninsula University of Technology, I am currentl
 I excel in collaborative settings and enjoy turning complex challenges into practical, efficient solutions. Whether I’m designing intuitive user interfaces or programming microcontrollers, I am committed to continuous learning and building technology that makes a real difference in everyday life.
 ---
 
+
+
 ## 🛠 Technical Skills
 
 *Languages:*  
